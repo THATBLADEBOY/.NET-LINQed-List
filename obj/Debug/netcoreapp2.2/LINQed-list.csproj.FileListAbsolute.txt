@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/backend-workspace/LINQed-list/bin/Debug/netcoreapp2.2/LINQed-list.deps.json
+/Users/Blade/Desktop/backend-workspace/LINQed-list/bin/Debug/netcoreapp2.2/LINQed-list.runtimeconfig.json
+/Users/Blade/Desktop/backend-workspace/LINQed-list/bin/Debug/netcoreapp2.2/LINQed-list.runtimeconfig.dev.json
+/Users/Blade/Desktop/backend-workspace/LINQed-list/bin/Debug/netcoreapp2.2/LINQed-list.dll
+/Users/Blade/Desktop/backend-workspace/LINQed-list/bin/Debug/netcoreapp2.2/LINQed-list.pdb
+/Users/Blade/Desktop/backend-workspace/LINQed-list/obj/Debug/netcoreapp2.2/LINQed-list.csprojAssemblyReference.cache
+/Users/Blade/Desktop/backend-workspace/LINQed-list/obj/Debug/netcoreapp2.2/LINQed-list.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/backend-workspace/LINQed-list/obj/Debug/netcoreapp2.2/LINQed-list.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/backend-workspace/LINQed-list/obj/Debug/netcoreapp2.2/LINQed-list.AssemblyInfo.cs
+/Users/Blade/Desktop/backend-workspace/LINQed-list/obj/Debug/netcoreapp2.2/LINQed-list.dll
+/Users/Blade/Desktop/backend-workspace/LINQed-list/obj/Debug/netcoreapp2.2/LINQed-list.pdb
